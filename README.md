@@ -10,7 +10,7 @@
 ## 📌 Contexto y Problema (Situación)
 *TechLogistics S.A.* enfrentaba una problemática crítica en su operación: un proceso de rendición de viáticos fragmentado y manual. Esto generaba fricción entre los colaboradores en ruta, demoras excesivas en los pagos y una alta tasa de errores en la carga manual de información.
 
-**Objetivo del Negocio:** Reducir los costos y tiempos administrativos, mejorando la eficiencia operacional mediante un flujo digital transparente y controlado [8].
+**Objetivo del Negocio:** Reducir los costos y tiempos administrativos, mejorando la eficiencia operacional mediante un flujo digital transparente y controlado.
 
 ## 🎯 Mi Misión (Tarea)
 Como Product Owner, mi responsabilidad fue liderar el ciclo de vida completo del producto (Discovery y Delivery): desde empatizar con los dolores del usuario final (conductores de larga distancia) hasta definir el *Roadmap* estratégico y gestionar el desarrollo incremental mediante un equipo ágil.
@@ -20,8 +20,8 @@ Como Product Owner, mi responsabilidad fue liderar el ciclo de vida completo del
 Para evitar construir una solución desalineada con la capacidad técnica y el presupuesto, implementamos un **Producto Mínimo Viable (MVP)** enfocado en la carga digital de comprobantes y la trazabilidad de estados.
 
 * **Descubrimiento y Diseño (Discovery):** Utilizamos Service Blueprints y mapas de empatía para mapear el recorrido del usuario. 
-* **Gestión de Backlog (Delivery):** Redacté Épicas e Historias de Usuario aplicando el **criterio INVEST**, y desglosé el trabajo en tareas **SMART** [9]. Prioricé el Backlog utilizando el marco económico **WSJF** para asegurar la entrega de máximo valor en el menor tiempo.
-* **Gestión de Flujo y Adaptabilidad:** Coordiné los Sprints a través de un tablero Kanban en **Jira** [10]. Demostré adaptabilidad al gestionar impedimentos críticos, como la caída de un proveedor de OCR, para lo cual definí un *Spike* técnico (desarrollo de una API Mock) que permitió desbloquear al equipo de Frontend [11-13].
+* **Gestión de Backlog (Delivery):** Redacté Épicas e Historias de Usuario aplicando el **criterio INVEST**, y desglosé el trabajo en tareas **SMART**. Prioricé el Backlog utilizando el marco económico **WSJF** para asegurar la entrega de máximo valor en el menor tiempo.
+* **Gestión de Flujo y Adaptabilidad:** Coordiné los Sprints a través de un tablero Kanban en **Jira**. Demostré adaptabilidad al gestionar impedimentos críticos, como la caída de un proveedor de OCR, para lo cual definí un *Spike* técnico (desarrollo de una API Mock) que permitió desbloquear al equipo de Frontend.
 
 ### 📸 Evidencia de Gestión (Artefactos)
 
@@ -37,10 +37,10 @@ Para evitar construir una solución desalineada con la capacidad técnica y el p
 
 El proyecto se orientó a métricas claras (*Data-driven*) alineadas a los OKRs de la empresa [6, 8]. La implementación del flujo básico de solicitud digital logró proyectar:
 
-* **Eficiencia:** Reducción del 50% en el tiempo promedio de aprobación de viáticos [6, 14].
-* **Calidad:** Reducción del 40% en el retrabajo y disminución de un 30% en errores de carga manual [6, 14].
-* **Adopción:** Migración del 80% de los viáticos gestionados hacia el nuevo flujo digital [6].
-* **Experiencia (UX):** Alcanzar un nivel de satisfacción del usuario (CSAT/NPS) superior a 8/10 [6, 15].
+* **Eficiencia:** Reducción del 50% en el tiempo promedio de aprobación de viáticos.
+* **Calidad:** Reducción del 40% en el retrabajo y disminución de un 30% en errores de carga manual.
+* **Adopción:** Migración del 80% de los viáticos gestionados hacia el nuevo flujo digital.
+* **Experiencia (UX):** Alcanzar un nivel de satisfacción del usuario (CSAT/NPS) superior a 8/10.
 
 ## 💻 Herramientas y Tecnologías Aplicadas
 * **Metodologías:** Scrum, Kanban, Design Thinking, WSJF.
