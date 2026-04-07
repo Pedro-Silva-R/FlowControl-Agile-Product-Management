@@ -23,14 +23,6 @@ Para evitar construir una solución desalineada con la capacidad técnica y el p
 * **Gestión de Backlog (Delivery):** Redacté Épicas e Historias de Usuario aplicando el **criterio INVEST**, y desglosé el trabajo en tareas **SMART**. Prioricé el Backlog utilizando el marco económico **WSJF** para asegurar la entrega de máximo valor en el menor tiempo.
 * **Gestión de Flujo y Adaptabilidad:** Coordiné los Sprints a través de un tablero Kanban en **Jira**. Demostré adaptabilidad al gestionar impedimentos críticos, como la caída de un proveedor de OCR, para lo cual definí un *Spike* técnico (desarrollo de una API Mock) que permitió desbloquear al equipo de Frontend.
 
-### 📸 Evidencia de Gestión (Artefactos)
-
-> **Tablero de Jira - Gestión de Sprints**
-> *[Insertar imagen de tu tablero Kanban de Jira aquí, mostrando los tickets en In Progress y Ready]*
-
-> **Prototipado en Figma**
-> *[Insertar imagen de tu prototipo de la interfaz de la Web App aquí]*
-
 ---
 
 ## 📈 Impacto y Resultados (Resultado)
